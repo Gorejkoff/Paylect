@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.370224b6.css",
+    "main.js": "./static/js/main.07e83881.js",
+    "static/media/image-background.jpg": "./static/media/image-background.89b05b562e1390aeae1a.jpg",
+    "static/media/services-5.jpg": "./static/media/services-5.e84e2686e65cffac943b.jpg",
+    "static/media/services-3.jpg": "./static/media/services-3.71076e7a523a086cbcd1.jpg",
+    "static/media/services-1.jpg": "./static/media/services-1.6cf65f01bb2b8860d526.jpg",
+    "static/media/services-2.jpg": "./static/media/services-2.d622fca9a7d1b33ced80.jpg",
+    "static/media/AvenirNextCyr-Medium.woff": "./static/media/AvenirNextCyr-Medium.05182deab8be5ee92c17.woff",
+    "static/media/AvenirNextCyr-Regular.woff": "./static/media/AvenirNextCyr-Regular.5a885529c408366c5f8a.woff",
+    "static/media/AvenirNextCyr-Demi.woff": "./static/media/AvenirNextCyr-Demi.4a392b4ac7128c077b27.woff",
+    "static/media/services-4.jpg": "./static/media/services-4.f88fb47109136592ee3d.jpg",
+    "static/media/AvenirNextCyr-Medium.woff2": "./static/media/AvenirNextCyr-Medium.ffcf7d262a9e4907e069.woff2",
+    "static/media/AvenirNextCyr-Regular.woff2": "./static/media/AvenirNextCyr-Regular.e4c3688a18585638ddff.woff2",
+    "static/media/AvenirNextCyr-Demi.woff2": "./static/media/AvenirNextCyr-Demi.f033b66b803cabbd66b5.woff2",
+    "index.html": "./index.html",
+    "main.370224b6.css.map": "./static/css/main.370224b6.css.map",
+    "main.07e83881.js.map": "./static/js/main.07e83881.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.370224b6.css",
+    "static/js/main.07e83881.js"
+  ]
+}
