@@ -1,1 +1,1 @@
-Landing page Paymlect. React.
+Landing page Paylect. React.
