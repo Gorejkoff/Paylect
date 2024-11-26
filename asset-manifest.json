@@ -1,25 +1,39 @@
 {
   "files": {
-    "main.css": "./static/css/main.4eb07c63.css",
-    "main.js": "./static/js/main.58b3bba0.js",
+    "main.css": "./static/css/main.aed0402d.css",
+    "main.js": "./static/js/main.79b57eab.js",
     "static/media/image-background.jpg": "./static/media/image-background.89b05b562e1390aeae1a.jpg",
-    "static/media/services-5.jpg": "./static/media/services-5.e84e2686e65cffac943b.jpg",
-    "static/media/services-3.jpg": "./static/media/services-3.71076e7a523a086cbcd1.jpg",
-    "static/media/services-1.jpg": "./static/media/services-1.6cf65f01bb2b8860d526.jpg",
-    "static/media/services-2.jpg": "./static/media/services-2.d622fca9a7d1b33ced80.jpg",
+    "static/media/services-1.svg": "./static/media/services-1.aaac1fe5f7ec5ad88827.svg",
+    "static/media/services-2.svg": "./static/media/services-2.41f8adc7555a7b5ae4ab.svg",
+    "static/media/services-4.svg": "./static/media/services-4.85efe91b8e134875e446.svg",
+    "static/media/services-3.svg": "./static/media/services-3.9df640561100247f6d8b.svg",
     "static/media/AvenirNextCyr-Medium.woff": "./static/media/AvenirNextCyr-Medium.05182deab8be5ee92c17.woff",
     "static/media/AvenirNextCyr-Regular.woff": "./static/media/AvenirNextCyr-Regular.5a885529c408366c5f8a.woff",
     "static/media/AvenirNextCyr-Demi.woff": "./static/media/AvenirNextCyr-Demi.4a392b4ac7128c077b27.woff",
-    "static/media/services-4.jpg": "./static/media/services-4.f88fb47109136592ee3d.jpg",
     "static/media/AvenirNextCyr-Medium.woff2": "./static/media/AvenirNextCyr-Medium.ffcf7d262a9e4907e069.woff2",
     "static/media/AvenirNextCyr-Regular.woff2": "./static/media/AvenirNextCyr-Regular.e4c3688a18585638ddff.woff2",
     "static/media/AvenirNextCyr-Demi.woff2": "./static/media/AvenirNextCyr-Demi.f033b66b803cabbd66b5.woff2",
+    "static/media/logo.svg": "./static/media/logo.27b4fe89e469b8be8199.svg",
+    "static/media/logo-2.svg": "./static/media/logo-2.d5a7e2ff0468ab114c14.svg",
+    "static/media/Cripto_cortex.svg": "./static/media/Cripto_cortex.8f24281b84d4b40dba2d.svg",
+    "static/media/Cripto_id.svg": "./static/media/Cripto_id.34efbd0eec10ecde682b.svg",
+    "static/media/Cripto_protocol.svg": "./static/media/Cripto_protocol.ad5c7adecb42bdc6dbda.svg",
+    "static/media/icon-1.svg": "./static/media/icon-1.b978d09738aa8d881350.svg",
+    "static/media/Carousel-1.svg": "./static/media/Carousel-1.17dcc4490968049c96e4.svg",
+    "static/media/double_elips.svg": "./static/media/double_elips.5587ea27d57a3cfa9e88.svg",
+    "static/media/close.svg": "./static/media/close.7a6bd29c6112e1ad8b4c.svg",
     "index.html": "./index.html",
-    "main.4eb07c63.css.map": "./static/css/main.4eb07c63.css.map",
-    "main.58b3bba0.js.map": "./static/js/main.58b3bba0.js.map"
+    "static/media/arrow-right.svg": "./static/media/arrow-right.1a08cf89115e9e4e4f28.svg",
+    "static/media/arrow-down.svg": "./static/media/arrow-down.c62e03bfe70c69afd03e.svg",
+    "static/media/arrow-top.svg": "./static/media/arrow-top.8252962f4c03fd7b1551.svg",
+    "static/media/check.svg": "./static/media/check.23c81f03f05ab0b82090.svg",
+    "static/media/arrow-button.svg": "./static/media/arrow-button.a7b78ecb4c587eb3238a.svg",
+    "static/media/circle.svg": "./static/media/circle.a7c347030937cfec0727.svg",
+    "main.aed0402d.css.map": "./static/css/main.aed0402d.css.map",
+    "main.79b57eab.js.map": "./static/js/main.79b57eab.js.map"
   },
   "entrypoints": [
-    "static/css/main.4eb07c63.css",
-    "static/js/main.58b3bba0.js"
+    "static/css/main.aed0402d.css",
+    "static/js/main.79b57eab.js"
   ]
 }
